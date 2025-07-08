@@ -1,0 +1,12 @@
+name: Kelompok10
+title:
+username: kelompok10
+account: kelompok10
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15040965
+bundleId: 10583164
+url: https://kelompok10.shinyapps.io/Kelompok10/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
