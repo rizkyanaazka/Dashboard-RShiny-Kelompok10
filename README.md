@@ -5,7 +5,6 @@ Nama Anggota:
 2. M. Faruq Hafidzullah E. (222313186)
 3. Rizkyana Azka Akhiria Ramadhanti (222313354)
 
-
 LINK DEPLOY: https://kelompok10.shinyapps.io/Kelompok10/
 
 Jawa Tengah, sebagai salah satu provinsi dengan keragaman geografis yang luas, mulai dari dataran rendah hingga pegunungan, menghadapi berbagai ancaman bencana alam yang seringkali memperburuk keadaan sosial dan ekonomi masyarakatnya. 
