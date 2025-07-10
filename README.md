@@ -6,7 +6,7 @@ Nama Anggota:
 3. Rizkyana Azka Akhiria Ramadhanti (222313354)
 
 
-
+LINK DEPLOY: https://kelompok10.shinyapps.io/Kelompok10/
 
 Jawa Tengah, sebagai salah satu provinsi dengan keragaman geografis yang luas, mulai dari dataran rendah hingga pegunungan, menghadapi berbagai ancaman bencana alam yang seringkali memperburuk keadaan sosial dan ekonomi masyarakatnya. 
 Wilayah ini memiliki rentang topografi yang memungkinkan terjadinya banyak jenis bencana alam, yang semakin meningkat frekuensinya akibat perubahan iklim. Di antara bencana alam yang paling sering terjadi di Jawa Tengah adalah banjir, 
